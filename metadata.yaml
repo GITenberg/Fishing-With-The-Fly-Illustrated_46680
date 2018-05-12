@@ -1,10 +1,16 @@
 _repo: Fishing-With-The-Fly-Illustrated_46680
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Orvis, Charles F.
     gutenberg_agent_id: '43899'
     url: http://www.gutenberg.org/2009/agents/43899
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46680#Fishing-With-The-Fly-Illustrated
 gutenberg_issued: '2014-08-25'
 gutenberg_type: Text
 identifiers:
